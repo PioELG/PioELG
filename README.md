@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pio ELEGBEDE
 -  👀 I’m a Java Developer
-- 🌱 I’m currently learning SpringBoot and Angular
+- 🌱 I’m currently learning SpringBoot and VueJs
 - 📫 You can contact me at pioelegbede235@gmail.com
 
 <!---
