@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pio ELEGBEDE
 -  👀 I’m a Java Developer
 - 🌱 I’m currently learning SpringBoot and VueJs
-- 📫 You can contact me at pioelegbede235@gmail.com
+- 📫 You can contact me at olabiyielegbede@gmail.com
 
 <!---
 PioELG/PioELG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
