@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pio ELEGBEDE
--  👀 I’m a Java Developer
+-  👀 I’m a FullStack Developer
 - 🌱 I’m currently learning SpringBoot and VueJs
 - 📫 You can contact me at olabiyielegbede@gmail.com
 
