@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pio ELEGBEDE
+- 👋 Hi, I’m Olabiyi Pio ELEGBEDE
 -  👀 I’m a FullStack Developer
 - 🌱 I’m currently learning SpringBoot and VueJs
 - 📫 You can contact me at olabiyielegbede@gmail.com
